@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Sergios!
+
+🌱 I just finished my second year of Computer Science at the University of Bath.
+
+📚 I’m currently trying to learn more about C++ to prepare for an upcoming internship.
+
+📫 You can reach me at sg2295@bath.ac.uk or via my [LinkedIn Profile](https://www.linkedin.com/in/sergios-gavriilidis/).
+
 
 <!--
 **sg2295/sg2295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
