@@ -8,7 +8,7 @@
 - [Insight](https://github.com/alex-and-the-antelopes/Insight), a Parliamentary Bill tracker
 - [Sudoku Solver](https://github.com/sg2295/Sudoku-Solver), an agent that can solve Sudoku puzzles
 - [Instant Messenger](https://github.com/sg2295/InstantMessenger), a Client-Server chat system using Sockets and Threads
-- [Wheelie](https://github.com/sg2295/Wheelie), a RC car based on the communication between two Arduinos
+- [Wheelie](https://github.com/sg2295/Wheelie), an RC car based on the communication between two Arduinos
 
 🏆 I've had the opportunity to participate in a few hackathons and programming competitions:
 - Won ___Most likely to lead the robot uprising___ at University of Bath Systems Architecture Competition, 2019
