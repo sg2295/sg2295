@@ -1,8 +1,8 @@
 ### Hi there, I'm Sergios!
 
-🌱 I just finished my second year of Computer Science at the University of Bath.
+🌱 I just finished my second year of Computer Science at the University of Bath and I'm about to begin a 13-month placement at Intel as a Software Engineer Intern.
 
-📚 I’m currently trying to learn more about C++ to prepare for an upcoming internship.
+📚 I’m currently trying to learn more about C and C++.
 
 📫 You can reach me at sg2295@bath.ac.uk or via my [LinkedIn Profile](https://www.linkedin.com/in/sergios-gavriilidis/).
 
