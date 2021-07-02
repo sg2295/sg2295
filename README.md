@@ -11,7 +11,7 @@
 - [Wheelie](https://github.com/sg2295/Wheelie), an RC car based on the communication between two Arduinos
 
 🏆 I've had the opportunity to participate in a few hackathons and programming competitions:
-- Won ___Most likely to lead the robot uprising___ at University of Bath Systems Architecture Competition, 2019
+- Won ___Most likely to lead the robot uprising___ at the University of Bath Systems Architecture Competition, 2019
 - Won ___Best Overall___ at Launchpad 5.0, 2021
 - Won ___Most Impressive___ and voted ___2nd Hacker's Choice___ at Bath Hack, 2021
 
