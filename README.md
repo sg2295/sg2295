@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergios!
 
-🌱 I just finished my second year of Computer Science at the University of Bath and I'm about to begin a 13-month placement at Intel.
+🌱 I just finished my second year of Computer Science at the University of Bath and am currently on a 13-month placement at Intel.
 
 📚 I’m currently trying to learn more about C and C++.
 
