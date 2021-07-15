@@ -2,7 +2,7 @@
 
 🌱 I just finished my second year of Computer Science at the University of Bath and am currently on a 13-month placement at Intel.
 
-📚 I’m currently trying to learn more about C and C++.
+📚 I’m currently working with C++.
 
 👨‍💻 If you'd like to take a look at some of my more _interesting_ projects, I'd suggest any of the following:
 - [Insight](https://github.com/alex-and-the-antelopes/Insight), a Parliamentary Bill tracker
