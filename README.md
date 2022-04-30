@@ -1,8 +1,11 @@
 ### Hi there, I'm Sergios!
 
-🌱 I just finished my second year of Computer Science at the University of Bath and am currently on a 13-month placement at Intel.
+🌱 I'm a third year of Computer Science at the University of Bath, currently on a 13-month Software Engineering placement at Intel.
 
-📚 I’m currently working with C++.
+<!--
+🌱 I'm a final year Computer Science student at the Unversity of Bath and I recently completed a 13-month Software Engineering placement at Intel.
+-->
+📚 I enjoy working with C++, Python and Java.
 
 👨‍💻 If you'd like to take a look at some of my more _interesting_ projects, I'd suggest any of the following:
 - [Insight](https://github.com/alex-and-the-antelopes/Insight), a Parliamentary Bill tracker
