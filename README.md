@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergios!
 
-🌱 I'm a third year of Computer Science at the University of Bath, currently on a 13-month Software Engineering placement at Intel.
+🌱 I'm a final year Computer Science undergraduate at the University of Bath and a part-time Software Engineer at Intel.
 
 <!--
 🌱 I'm a final year Computer Science student at the Unversity of Bath and I recently completed a 13-month Software Engineering placement at Intel.
