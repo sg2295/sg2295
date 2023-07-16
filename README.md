@@ -8,8 +8,6 @@
 
 📚 I enjoy working with C++, Java and Python and I'm fascinated by robotics, embedded systems and low-level programming!
 
-EV3 non-holonomic, differential drive vehicle capable of creating 180-degree scans of the environment.
-
 👨‍💻 If you'd like to take a look at some of my more _interesting_ projects, I'd suggest any of the following:
 - [Insight](https://github.com/alex-and-the-antelopes/Insight), a Parliamentary Bill tracker
 - [EV3Rover](https://github.com/sg2295/EV3Rover), a non-holonomic, differential drive vehicle facilitating environment exploration and data acquisition
