@@ -1,16 +1,18 @@
 ### Hi there, I'm Sergios!
 
-🌱 I'm a final year Computer Science undergraduate at the **University of Bath** and a part-time Software Engineer at **Intel**.
+🌱 I'm a part-time Software Engineer at **Intel**.
 
-<!--
-🌱 I'm a final year Computer Science student at the Unversity of Bath and I recently completed a 13-month Software Engineering placement at Intel.
--->
-🎓 I'm currently investigating the development of 2-dimensional SLAM algorithms for low-cost robotics platforms.
+🎓 I graduated from the **University of Bath** with a first-class honours BSc Computer Science degree.
 
-📚 I enjoy working with C++, Java and Python.
+🔬 For my dissertation, I developed an any-time and any-space, sparse-sensing SLAM system for low-cost robotics platforms.
+
+📚 I enjoy working with C++, Java and Python and I'm fascinated by robotics, embedded systems and low-level programming!
+
+EV3 non-holonomic, differential drive vehicle capable of creating 180-degree scans of the environment.
 
 👨‍💻 If you'd like to take a look at some of my more _interesting_ projects, I'd suggest any of the following:
 - [Insight](https://github.com/alex-and-the-antelopes/Insight), a Parliamentary Bill tracker
+- [EV3Rover](https://github.com/sg2295/EV3Rover), a non-holonomic, differential drive vehicle facilitating environment exploration and data acquisition
 - [Sudoku Solver](https://github.com/sg2295/Sudoku-Solver), an agent that can solve Sudoku puzzles
 - [Instant Messenger](https://github.com/sg2295/InstantMessenger), a Client-Server chat system using Sockets and Threads
 - [Wheelie](https://github.com/sg2295/Wheelie), an RC car based on the communication between two Arduinos
