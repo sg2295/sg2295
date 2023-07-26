@@ -10,6 +10,7 @@
 
 👨‍💻 If you'd like to take a look at some of my more _interesting_ projects, I'd suggest any of the following:
 - [Insight](https://github.com/alex-and-the-antelopes/Insight), a Parliamentary Bill tracker
+- [Deep Learning Pong](https://github.com/Duck-Drivers-2K21/rl-coursework), deep reinforcement learning agents with super-human performance in Pong
 - [EV3Rover](https://github.com/sg2295/EV3Rover), a non-holonomic, differential drive vehicle facilitating environment exploration and data acquisition
 - [Sudoku Solver](https://github.com/sg2295/Sudoku-Solver), an agent that can solve Sudoku puzzles
 - [Instant Messenger](https://github.com/sg2295/InstantMessenger), a Client-Server chat system using Sockets and Threads
