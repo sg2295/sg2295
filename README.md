@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergios!
 
-🌱 I'm a part-time Software Engineer at **Intel**.
+🌱 I'm a Software Engineer at **Expedera**.
 
 🎓 I graduated from the **University of Bath** with a first-class honours BSc Computer Science degree.
 
